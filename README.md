@@ -1,4 +1,3 @@
-
 # 🚀 End-to-End DevOps CI/CD Pipeline with Monitoring & Logging
 
 ## 📌 Project Overview
